@@ -1,0 +1,7 @@
+{
+  "name": "MRbonoCocep",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
